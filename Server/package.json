@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "haproxy": "^0.3.0",
+    "primus": "^8.0.5"
+  }
+}
