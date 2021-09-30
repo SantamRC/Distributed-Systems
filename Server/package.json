@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "express": "^4.17.1",
-    "haproxy": "^0.3.0",
-    "primus": "^8.0.5"
-  }
-}
